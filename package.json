@@ -1,0 +1,20 @@
+{
+  "name": "koa-graphql-nativemongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Kundan Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-koa": "^2.9.7",
+    "dotenv": "^8.2.0",
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "mongodb": "^3.3.3"
+  }
+}
