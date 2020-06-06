@@ -11,7 +11,7 @@
   "author": "Kundan Joshi",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-koa": "^2.9.7",
+    "apollo-server-koa": "^2.14.2",
     "dotenv": "^8.2.0",
     "koa": "^2.11.0",
     "koa-router": "^7.4.0",
